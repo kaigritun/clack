@@ -1,5 +1,17 @@
 # @clack/prompts
 
+## 1.0.1
+
+### Patch Changes
+
+- 86e36d8: Add `withGuide` support to select prompt
+- 0ded19c: chore: simplify guide option checks
+- 76550d6: Add `withGuide` support to selectKey prompt
+- f9b9953: Add `withGuide` support to password prompt.
+- 0e93ccb: add `vertical` arrangement option to `confirm` prompt
+- 4e9ae13: Add support for `withGuide` to confirm prompt
+- 0256238: Add `withGuide` support to spinner prompt
+
 ## 1.0.0
 
 ### Major Changes
